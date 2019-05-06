@@ -1,0 +1,169 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Highcharts Example</title>
+
+    <style type="text/css">
+        .highcharts-tooltip h3 {
+            margin: 0.3em 0;
+        }
+    </style>
+</head>
+
+<body>
+    <script src="../../code/highcharts.js"></script>
+    <script src="../../code/highcharts-more.js"></script>
+    <script src="../../code/modules/exporting.js"></script>
+    <script src="../../code/modules/export-data.js"></script>
+
+    <div id="container" style="height: 400px; min-width: 310px; max-width: 600px; margin: 0 auto"></div>
+
+
+    <script type="text/javascript">
+        Highcharts.chart('container', {
+
+            chart: {
+                type: 'bubble',
+                plotBorderWidth: 1,
+                zoomType: 'xy'
+            },
+
+            legend: {
+                enabled: false
+            },
+
+            title: {
+                text: '近年香港自閉症學童人數'
+            },
+
+            xAxis: {
+                gridLineWidth: 1,
+                title: {
+                    text: '年份'
+                },
+                labels: {
+                    format: '{value} '
+                },
+                plotLines: [{
+                    color: 'black',
+                    dashStyle: 'dot',
+                    width: 2,
+                    value: 65,
+                    label: {
+                        rotation: 0,
+                        y: 15,
+                        style: {
+                            fontStyle: 'italic'
+                        },
+                        text: 'Safe fat intake 65g/day'
+                    },
+                    zIndex: 3
+                }]
+            },
+
+            yAxis: {
+                startOnTick: false,
+                endOnTick: false,
+                title: {
+                    text: '香港自閉症學童人數'
+                },
+                labels: {
+                    format: '{value} '
+                },
+                maxPadding: 0.2,
+                plotLines: [{
+                    color: 'black',
+                    dashStyle: 'dot',
+                    width: 2,
+                    value: 50,
+                    label: {
+                        align: 'right',
+                        style: {
+                            fontStyle: 'italic'
+                        },
+                        text: 'Safe sugar intake 50g/day',
+                        x: -10
+                    },
+                    zIndex: 3
+                }]
+            },
+
+            tooltip: {
+                useHTML: true,
+                headerFormat: '<table>',
+                pointFormat: '<tr><th colspan="2"><h3>{point.country}</h3></th></tr>' +
+                    '<tr><th>學年:</th><td>{point.x}</td></tr>' +
+                    '<tr><th>自閉症學生人數:</th><td>{point.y}</td></tr>',
+                footerFormat: '</table>',
+                followPointer: true
+            },
+
+            plotOptions: {
+                series: {
+                    dataLabels: {
+                        enabled: true,
+                        format: '{point.name}'
+                    }
+                }
+            },
+
+            series: [{
+                data: [{
+                    x: 2010,
+                    y: 4769,
+                    z: 4769,
+                    name: '2010-2011',
+                    country: '2010-2011'
+                }, {
+                    x: 2011,
+                    y: 5511,
+                    z: 5511,
+                    name: '2011-2012',
+                    country: '2011-2012'
+                }, {
+                    x: 2012,
+                    y: 6403,
+                    z: 6403,
+                    name: '2012-2013',
+                    country: '2012-2013'
+                }, {
+                    x: 2013,
+                    y: 7356,
+                    z: 7356,
+                    name: '2013-2014',
+                    country: '2013-2014'
+                }, {
+                    x: 2014,
+                    y: 8267,
+                    z: 8267,
+                    name: '2014-2015',
+                    country: '2014-2015'
+                }, {
+                    x: 2015,
+                    y: 9394,
+                    z: 9394,
+                    name: '2015-2016',
+                    country: '2015-2016'
+                }, {
+                    x: 2016,
+                    y: 10557,
+                    z: 10557,
+                    name: '2016-2017',
+                    country: '2016-2017'
+                }, {
+                    x: 2017,
+                    y: 11613,
+                    z: 11613,
+                    name: '2017-2018',
+                    country: '2017-2018'
+                }]
+            }]
+
+        });
+    </script>
+</body>
+
+</html>

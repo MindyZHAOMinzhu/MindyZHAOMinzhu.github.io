@@ -1,0 +1,99 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Highcharts Example</title>
+
+    <style type="text/css">
+
+    </style>
+</head>
+
+<body>
+    <script src="../../code/highcharts.js"></script>
+    <script src="../../code/modules/exporting.js"></script>
+    <script src="../../code/modules/export-data.js"></script>
+
+    <div id="container" style="min-width: 310px; height: 400px; margin: 0 auto"></div>
+
+
+
+    <script type="text/javascript">
+        Highcharts.chart('container', {
+            chart: {
+                zoomType: 'xy'
+            },
+            title: {
+                text: 'Average and No. of autism students in Hong Kong'
+            },
+            subtitle: {
+                text: 'Source: legco.gov.hk.com'
+            },
+            xAxis: [{
+                categories: ['2010-2011', '2011-2012', '2012-2013', '2013-2014', '2014-2015', '2015-2016', '2016-2017',
+                    '2017-2018'
+                ],
+                crosshair: true
+            }],
+            yAxis: [{ // Primary yAxis
+                min: 0,
+                labels: {
+                    format: '{value}',
+                    style: {
+                        color: Highcharts.getOptions().colors[1]
+                    }
+
+                },
+                title: {
+                    text: 'Average ',
+                    style: {
+                        color: Highcharts.getOptions().colors[1]
+                    }
+                }
+            }, { // Secondary yAxis
+                title: {
+                    text: 'No. of autism students',
+                    style: {
+                        color: Highcharts.getOptions().colors[0]
+                    }
+                },
+                labels: {
+                    format: '{value} ',
+                    style: {
+                        color: Highcharts.getOptions().colors[0]
+                    }
+                },
+                opposite: true
+            }],
+            tooltip: {
+                shared: true
+            },
+            legend: {
+                layout: 'vertical',
+                align: 'left',
+                x: 50,
+                verticalAlign: 'top',
+                y: 60,
+                floating: true,
+                backgroundColor: (Highcharts.theme && Highcharts.theme.legendBackgroundColor) || 'rgba(255,255,255,0.25)'
+            },
+            series: [{
+                name: 'No. of autism students',
+                type: 'column',
+                yAxis: 1,
+                data: [2009, 2141, 2253, 2386, 2477, 2594, 2737, 2903],
+
+
+            }, {
+                name: 'Average ',
+                type: 'spline',
+                data: [2009 / 158, 2141 / 167, 2253 / 176, 2386 / 189, 2477 / 197, 2594 / 212, 2737 / 221, 2903 / 236],
+
+            }]
+        });
+    </script>
+</body>
+
+</html>

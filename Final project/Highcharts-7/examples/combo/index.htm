@@ -1,0 +1,89 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Highcharts Example</title>
+
+    <style type="text/css">
+
+    </style>
+</head>
+
+<body>
+    <script src="../../code/highcharts.js"></script>
+    <script src="../../code/modules/series-label.js"></script>
+    <script src="../../code/modules/exporting.js"></script>
+
+    <div id="container" style="min-width: 310px; height: 400px; margin: 0 auto"></div>
+
+
+
+    <script type="text/javascript">
+        Highcharts.chart('container', {
+            title: {
+                text: 'Combination chart'
+            },
+            xAxis: {
+                categories: ['2012-2013', '2013-2014', '2014-2015', '2015-2016', '2016-2017']
+            },
+            labels: {
+                items: [{
+                    html: 'Total fruit consumption',
+                    style: {
+                        left: '50px',
+                        top: '18px',
+                        color: (Highcharts.theme && Highcharts.theme.textColor) || 'black'
+                    }
+                }]
+            },
+            series: [{
+                type: 'column',
+                name: '早期教育及訓練中心',
+                data: [3, 2, 2991, 3102, 3124]
+            }, {
+                type: 'column',
+                name: '特殊幼兒中心',
+                data: [2, 3, 5, 22, 1980]
+            }, {
+                type: 'column',
+                name: '幼稚園暨幼兒中心兼收弱能兒童計劃',
+                data: [4, 3, 3, 9, 0]
+            }, {
+                type: 'spline',
+                name: 'Average',
+                data: [3, 2.67, 3, 6.33, 3.33],
+                marker: {
+                    lineWidth: 2,
+                    lineColor: Highcharts.getOptions().colors[3],
+                    fillColor: 'white'
+                }
+            }, {
+                type: 'pie',
+                name: 'Total consumption',
+                data: [{
+                    name: '早期教育及訓練中心',
+                    y: 13,
+                    color: Highcharts.getOptions().colors[0] // 早期教育及訓練中心's color
+                }, {
+                    name: '特殊幼兒中心',
+                    y: 23,
+                    color: Highcharts.getOptions().colors[1] // 特殊幼兒中心's color
+                }, {
+                    name: '幼稚園暨幼兒中心兼收弱能兒童計劃',
+                    y: 19,
+                    color: Highcharts.getOptions().colors[2] // 幼稚園暨幼兒中心兼收弱能兒童計劃's color
+                }],
+                center: [100, 80],
+                size: 100,
+                showInLegend: false,
+                dataLabels: {
+                    enabled: false
+                }
+            }]
+        });
+    </script>
+</body>
+
+</html>
