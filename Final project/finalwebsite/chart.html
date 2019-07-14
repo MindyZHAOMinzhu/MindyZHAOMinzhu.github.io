@@ -1,0 +1,52 @@
+<head>
+
+</head>
+
+<body>
+    <script src="https://code.highcharts.com/highcharts.js"></script>
+    <script src="https://code.highcharts.com/highcharts-3d.js"></script>
+    <script src="https://code.highcharts.com/modules/exporting.js"></script>
+    <script src="../../code/modules/export-data.js"></script>
+
+    <div id="containerz" style="height: 400px; min-width: 310px; max-width: 600px; margin: 0 auto"></div>
+
+
+    <script type="text/javascript">
+        Highcharts.chart('containerz', {
+            chart: {
+                type: 'bar'
+            },
+            title: {
+                text: '在公營主流小學和中學就讀的自閉症學生人數'
+            },
+            subtitle: {
+                text: 'Source: 香港立法會'
+            },
+
+            xAxis: {
+                categories: ['2017-2018', '2016-2017', '2015-2016', '2014-2015', '2013-2014', '2012-2013', '2011-2012', '2010-2011']
+            },
+            yAxis: {
+                min: 0,
+                title: {
+                    text: 'Total students'
+                }
+            },
+            legend: {
+                reversed: true
+            },
+            plotOptions: {
+                series: {
+                    stacking: 'normal'
+                }
+            },
+            series: [{
+                name: '主流小學',
+                data: [5430, 5020, 4420, 3800, 3310, 2840, 2320, 1978]
+            }, {
+                name: '主流中學',
+                data: [3280, 2800, 2380, 1990, 1660, 1310, 1050, 782]
+            }]
+        });
+    </script>
+</body>

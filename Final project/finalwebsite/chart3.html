@@ -1,22 +1,8 @@
 <head>
 
-    <style type="text/css">
-        #container {
-            min-width: 310px;
-            max-width: 800px;
-            height: 400px;
-            margin: 0 auto
-        }
-    </style>
 </head>
 
 <body>
-    <script src="../../Highcharts-7.0.3/code/highcharts.js"></script>
-    <script src="https://code.highcharts.com/highcharts.js"></script>
-    <script src="https://code.highcharts.com/modules/networkgraph.js"></script>
-    <script src="../../Highmaps-7.0.3 2/code/highcharts-3d.js"></script>
-    <script src="../../Highcharts-7.0.3 2/code/modules/exporting.js"></script>
-    <script src="../../Highcharts-7.0.3 2/code/modules/export-data.js"></script>
     <script src="../Highcharts-7/code/modules/series-label.js"></script>
     <script src="https://code.highcharts.com/highcharts.js"></script>
     <script src="https://code.highcharts.com/highcharts-3d.js"></script>
@@ -24,27 +10,27 @@
     <script src="../../code/modules/export-data.js"></script>
 
 
-    <div id="container"></div>
+    <div id="containerx" style="padding-top: 2rem"></div>
 
 
 
     <script type="text/javascript">
-        Highcharts.chart('container', {
+        Highcharts.chart('containerx', {
             chart: {
                 type: 'line'
             },
 
             title: {
-                text: '香港就读中小学校自闭症学童人数'
+                text: '政府针对特殊教育的部分支援开支'
             },
 
             subtitle: {
-                text: '来源：香港教育局'
+                text: '来源: 香港立法会'
             },
 
             yAxis: {
                 title: {
-                    text: '人数'
+                    text: '开支（/百亿元）'
                 }
             },
             legend: {
@@ -58,19 +44,16 @@
                     label: {
                         connectorAllowed: false
                     },
-                    pointStart: 2010
+                    pointStart: 2013
                 }
             },
 
             series: [{
-                name: '中学学童人数',
-                data: [782, 1050, 1310, 1660, 1990, 2380, 2800, 2530]
+                name: '协助主流学校支援有特殊需要的学生的总开支',
+                data: [1075, 1222, 1310, 1392]
             }, {
-                name: '小学学童人数',
-                data: [2760, 3370, 4150, 4970, 5790, 6800, 7820, 8710]
-            }, {
-                name: '总人数',
-                data: [3542, 4520, 5460, 7640, 8410, 9260, 10380, 11330]
+                name: '舍署学前康复服务预算开支',
+                data: [517, 571.5, 623.2, 661.2]
             }],
 
             responsive: {
@@ -91,5 +74,3 @@
         });
     </script>
 </body>
-
-</html>

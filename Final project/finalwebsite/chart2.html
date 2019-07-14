@@ -1,0 +1,43 @@
+<head>
+
+</head>
+
+<body>
+    <script src="https://code.highcharts.com/highcharts.js"></script>
+    <script src="https://code.highcharts.com/highcharts-3d.js"></script>
+    <script src="https://code.highcharts.com/modules/exporting.js"></script>
+    <script src="../../code/modules/export-data.js"></script>
+
+    <script>
+        Highcharts.chart('containera', {
+            chart: {
+                type: 'variablepie'
+            },
+            title: {
+                text: '特殊學校自閉症輔導老師人數'
+            },
+            subtitle: {
+                text: 'Source: 香港立法會'
+            },
+
+            tooltip: {
+                headerFormat: '',
+                pointFormat: '<span style="color:{point.color}">\u25CF</span> <b> {point.name}</b><br/>' +
+                    '人數: <b>{point.y}</b><br/>'
+            },
+            series: [{
+                minPointSize: 10,
+                innerSize: '20%',
+                zMin: 0,
+                name: 'countries',
+                data: [{
+                    name: '其他特殊教育學校教師',
+                    y: 1611
+                }, {
+                    name: '自閉症學童輔導老師',
+                    y: 236
+                }]
+            }]
+        });
+    </script>
+</body>
