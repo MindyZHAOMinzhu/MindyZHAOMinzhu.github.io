@@ -509,6 +509,7 @@
                     },
 
                     yAxis: {
+                        min: 0,
                         startOnTick: false,
                         endOnTick: false,
                         title: {
@@ -518,29 +519,15 @@
                             format: '{value} '
                         },
                         maxPadding: 0.2,
-                        plotLines: [{
-                            color: 'black',
-                            dashStyle: 'dot',
-                            width: 2,
-                            value: 50,
-                            label: {
-                                align: 'right',
-                                style: {
-                                    fontStyle: 'italic'
-                                },
-                                text: 'Safe sugar intake 50g/day',
-                                x: -10
-                            },
-                            zIndex: 3
-                        }]
+
                     },
 
                     tooltip: {
                         useHTML: true,
                         headerFormat: '<table>',
-                        pointFormat: '<tr><th colspan="2"><h3>{point.country}</h3></th></tr>' +
-                            '<tr><th>學年:</th><td>{point.x}</td></tr>' +
-                            '<tr><th>自閉症學生人數:</th><td>{point.y}</td></tr>',
+                        pointFormat: '<tr><th colspan="2"><h4>{point.country}</h4></th></tr>' +
+                            '<tr><th>學年(Year):</th><td>{point.x}</td></tr>' +
+                            '<tr><th>自閉症學生人數(Number of Students):</th><td>{point.y}</td></tr>',
                         footerFormat: '</table>',
                         followPointer: true
                     },
@@ -759,9 +746,12 @@
                     },
 
                     yAxis: {
+                        min: 0,
+                        max: 50,
                         title: {
-                            text: '開支（/百億元）'
+                            text: 'Number of Students'
                         }
+
                     },
                     legend: {
                         layout: 'vertical',
