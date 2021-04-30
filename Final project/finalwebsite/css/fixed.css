@@ -123,7 +123,7 @@
 
 .display-4 {
     font-family: "montserrat-medium", sans-serif;
-    font-size: 1.0rem;
+    font-size: 0.9rem;
     line-height: 1.765;
     color: #868686;
     margin-top: 0;
@@ -152,7 +152,7 @@
 
 .display-7 {
     font-family: "montserrat-medium", sans-serif;
-    font-size: 1.0rem;
+    font-size: 0.9rem;
     line-height: 1.255;
     color: #70a2db;
     margin-top: 0;
@@ -201,7 +201,7 @@
 
 @media only screen and (max-width: 1200px) {
     .display-1 {
-        font-size: 7.2rem;
+        font-size: 7.0rem;
     }
     .display-2 {
         font-size: 4.4rem;

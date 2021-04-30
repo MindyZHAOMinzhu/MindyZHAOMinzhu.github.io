@@ -3,7 +3,7 @@ body {
     overflow-x: hidden;
     font-family: 'Lato', sans-serif;
     color: #868686;
-    font-size: 1.25rem;
+    font-size: 0.89rem;
 }
 
 .offset:before {
@@ -62,7 +62,7 @@ body {
 }
 
 .caption h1 {
-    font-size: 3.8rem;
+    font-size: 3.6rem;
     font-weight: 700;
     letter-spacing: .3rem;
     text-shadow: .1rem .1rem .8rem black;
@@ -70,7 +70,7 @@ body {
 }
 
 .caption h3 {
-    font-size: 2rem;
+    font-size: 1.6rem;
     letter-spacing: .3rem;
     text-shadow: .1rem .1rem .5rem black;
     padding-bottom: 1.6rem;
@@ -80,7 +80,7 @@ body {
     border-width: medium;
     border-radius: 0;
     padding: .6rem 1.3rem;
-    font-size: 1.1rem;
+    font-size: 1.0rem;
     z-index: 2;
 }
 
@@ -97,7 +97,7 @@ body {
 }
 
 .narrow h1 {
-    font-size: 2.4rem;
+    font-size: 2.2rem;
 }
 
 .btn-secondary {
@@ -127,7 +127,7 @@ body {
     overflow-x: hidden;
     font-family: 'Lato', sans-serif;
     color: rgb(121, 118, 118);
-    font-size: 1.25rem;
+    font-size: 0.9rem;
 }
 
 
@@ -140,7 +140,7 @@ body {
 }
 
 h3.heading {
-    font-size: 2.5rem;
+    font-size: 2.2rem;
     font-weight: 700;
     text-transform: uppercase;
     margin: 1.9rem;
@@ -148,7 +148,7 @@ h3.heading {
 }
 
 h3.heading1 {
-    font-size: 2.0rem;
+    font-size: 2.2rem;
     font-weight: 700;
     text-transform: uppercase;
     margin: 1.9rem;
@@ -167,13 +167,13 @@ h3.heading1 {
 }
 
 .feature h3 {
-    font-size: 1.3rem;
+    font-size: 1.9rem;
     text-transform: uppercase;
     padding-bottom: .4rem;
 }
 
 .feature p {
-    font-size: 1.1rem;
+    font-size: 0.9rem;
 }
 
 .fixed {
@@ -256,7 +256,7 @@ hr.socket {
 }
 
 .carousel-inner {
-    font-size: 3.8rem;
+    font-size: 3.5rem;
     font-weight: 700;
     text-shadow: .1rem .1rem .8rem black;
     padding-bottom: 1rem;
@@ -297,7 +297,7 @@ hr.socket {
 } */
 
 .onweb {
-    padding-left: 5rem;
+    padding-left: 4.5rem;
     padding-right: 5rem;
     text-align: justify;
 }
@@ -307,17 +307,17 @@ hr.socket {
 
 @media (max-width: 767px) {
     .caption h1 {
-        font-size: 1.7rem;
+        font-size: 1.6rem;
         letter-spacing: .1rem;
         padding-bottom: .5rem;
     }
     .caption h3 {
-        font-size: 1rem;
+        font-size: 0.95rem;
         padding-bottom: 1.2rem;
     }
     .btn-lg {
         padding: .5rem 1rem;
-        font-size: 1rem;
+        font-size: 0.9rem;
     }
     .narrow h1 {
         font-size: 1.5rem;
