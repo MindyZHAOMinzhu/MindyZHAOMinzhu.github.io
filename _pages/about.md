@@ -34,6 +34,11 @@ News
 
 {% include news.md %}
 
+Publications
+---
+
+{% include publications.md %}
+
 <!-- Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
