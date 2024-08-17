@@ -6,6 +6,6 @@
 
 2023.06 — Joined [DEER Lab](https://www.cs.cityu.edu.hk/~zhiconlu/people/) as Research Assistant, advised by Professor [Zhicong Lu](https://www.cs.cityu.edu.hk/~zhiconlu/)
 
-2023.09 — Received M.S. in Knowledge, Information, and Data Science from [University College London](https://www.ucl.ac.uk/), advised by Professor [Kaitlyn Regehr](https://profiles.ucl.ac.uk/88177-kaitlyn-regehr)
+2023.09 — Received M.S. in Knowledge, Information, and Data Science from University College London, advised by Professor [Kaitlyn Regehr](https://profiles.ucl.ac.uk/88177-kaitlyn-regehr)
 
-2022.06 — Received B.S. in Journalism (Data and Media Communication concentration) from [Hong Kong Baptist University](https://www.hkbu.edu.hk/)
+2022.06 — Received B.S. in Journalism (Data and Media Communication concentration) from Hong Kong Baptist University
