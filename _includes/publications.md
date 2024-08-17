@@ -1,9 +1,9 @@
----
+<!-- ---
 layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
----
+--- -->
 
 
 
@@ -14,6 +14,9 @@ author_profile: true
 
 
 Wang, H., **Zhao, M.**, Hu, W., Ma, Y., & Lu, Z. (2024). Critical Heritage Studies as a Lens to Understand Short Video Sharing of Intangible Cultural Heritage on Douyin. In *Proceedings of the CHI Conference on Human Factors in Computing Systems* (pp. 1-21). Association for Computing Machinery. [https://doi.org/10.1145/3613904.3642138](https://doi.org/10.1145/3613904.3642138)
+
+[Report]Regehr, K., Shaughnessy, C., **Zhao, M.**, & Shaughnessy, N. (2024). Safter scrolling: How algorithms popularise and gamify online hate and misogyny for young people. published by UCL IOE, University of Kent, and 
+Association of School and College Leaders. [https://www.ascl.org.uk/ASCL/media/ASCL/Help%20and%20advice/Inclusion/Safer-scrolling.pdf](https://www.ascl.org.uk/ASCL/media/ASCL/Help%20and%20advice/Inclusion/Safer-scrolling.pdf)
 
 Lin, Z. H., Wang, Z., **Zhao, M.**, Song, Y., & Lan, L. (2022). An AI-based System to Assist Human Fact-Checkers for Labeling Cantonese Fake News on Social Media. In *2022 IEEE International Conference on Big Data (Big Data)* (pp. 6766-6768). IEEE.[https://doi.org/10.1109/BigData55660.2022.10020949](https://doi.org/10.1109/BigData55660.2022.10020949)
 
