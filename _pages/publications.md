@@ -15,7 +15,7 @@ author_profile: true
 
 Wang, H., **Zhao, M.**, Hu, W., Ma, Y., & Lu, Z. (2024). Critical Heritage Studies as a Lens to Understand Short Video Sharing of Intangible Cultural Heritage on Douyin. In *Proceedings of the CHI Conference on Human Factors in Computing Systems* (pp. 1-21). Association for Computing Machinery. [https://doi.org/10.1145/3613904.3642138](https://doi.org/10.1145/3613904.3642138)
 
-Lin, Z. H., Wang, Z., **Zhao, M.**, Song, Y., & Lan, L. (2022). An AI-based System to Assist Human Fact-Checkers for Labeling Cantonese Fake News on Social Media. In *2022 IEEE International Conference on Big Data (Big Data)* (pp. 6766-6768). IEEE. h[https://doi.org/10.1109/BigData55660.2022.10020949](https://doi.org/10.1109/BigData55660.2022.10020949)
+Lin, Z. H., Wang, Z., **Zhao, M.**, Song, Y., & Lan, L. (2022). An AI-based System to Assist Human Fact-Checkers for Labeling Cantonese Fake News on Social Media. In *2022 IEEE International Conference on Big Data (Big Data)* (pp. 6766-6768). IEEE.[https://doi.org/10.1109/BigData55660.2022.10020949](https://doi.org/10.1109/BigData55660.2022.10020949)
 
 Li, G., Wang, Z., **Zhao, M.**, Song, Y., & Lan, L. (2022). Sentiment Analysis of Political Posts on Hong Kong Local Forums Using Fine-Tuned mBERT. In *2022 IEEE International Conference on Big Data (Big Data)* (pp. 6763-6765). IEEE. [https://doi.org/10.1109/BigData55660.2022.10020704](https://doi.org/10.1109/BigData55660.2022.10020704)
 
