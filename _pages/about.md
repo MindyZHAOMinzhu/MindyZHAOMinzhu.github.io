@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 Hi👋! I am Mindy, Minzhu Zhao, a first-year Ph.D. student from [Grouplens](https://grouplens.org/) Research Center at the [University of Minnesota](https://twin-cities.umn.edu/home). I am luckily advised by [Prof. Lana Yarosh](https://lanayarosh.com/). My research interest lie in the areas of Human-Computer Interaction (HCI) and social media. 
+
+My previous experience mainly focuses on social media and online communities, particularly on online harmful content (e.g. misinformation, misogyny). My research interest is on the intersection between society and technology, particularly the equitable, ethical and empathetic technology or digital platform for vulnerable groups.
 <!-- and [Prof. Stevie Chancellor](http://steviechancellor.com/).  -->
 
 
@@ -29,7 +31,7 @@ xxxxxxxxx -->
 
 
 
-News
+<!-- News -->
 ---
 
 {% include news.md %}
