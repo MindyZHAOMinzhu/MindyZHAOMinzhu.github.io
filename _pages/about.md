@@ -7,12 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-Hi👋! I am Mindy, Minzhu Zhao.
-
-<!-- a first-year Ph.D. student from [Grouplens](https://grouplens.org/) Research Center at the [University of Minnesota](https://twin-cities.umn.edu/home). 
-
-I am luckily advised by [Prof. Lana Yarosh](https://lanayarosh.com/) and [Prof. Stevie Chancellor](http://steviechancellor.com/). My research focuses on social computing, and social media. -->
-
+Hi👋! I am Mindy, Minzhu Zhao, a first-year Ph.D. student from [Grouplens](https://grouplens.org/) Research Center at the [University of Minnesota](https://twin-cities.umn.edu/home). I am luckily advised by [Prof. Lana Yarosh](https://lanayarosh.com/). My research interest lie in the areas of Human-Computer Interaction (HCI) and social media. 
+<!-- and [Prof. Stevie Chancellor](http://steviechancellor.com/).  -->
 
 
 
