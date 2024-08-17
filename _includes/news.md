@@ -2,7 +2,7 @@
 - 04/2024: Thrilled to share that I'm starting my Ph.D. at U Minnesota this fall! I'm very excited and thankful for everyone who has supported me along the way. -->
 
 
-2024.09 — Joined [GroupLens](https://grouplens.org/) as a PhD student, advised by Professor [Lana Yarosh](https://lanayarosh.github.io/)
+2024.09 — Joined [GroupLens](https://grouplens.org/) as a Ph.D. student, advised by Professor [Lana Yarosh](https://lanayarosh.github.io/)
 
 2023.06 — Joined [DEER Lab](https://www.cs.cityu.edu.hk/~zhiconlu/people/) as Research Assistant, advised by Professor [Zhicong Lu](https://www.cs.cityu.edu.hk/~zhiconlu/)
 
