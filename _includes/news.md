@@ -8,4 +8,4 @@
 
 2023.09 — Received M.S. in Knowledge, Information, and Data Science from University College London, advised by Professor [Kaitlyn Regehr](https://profiles.ucl.ac.uk/88177-kaitlyn-regehr)
 
-2022.06 — Received B.S. in Journalism (Data and Media Communication concentration) from Hong Kong Baptist University
+2022.06 — Received B.S. in Journalism (Data and Media Communication concentration) from Hong Kong Baptist University, advised by Professor [Yucheng Jin](https://yucheng.gold/)
