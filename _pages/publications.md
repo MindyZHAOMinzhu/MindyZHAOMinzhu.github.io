@@ -12,6 +12,11 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
+
+{% include bib_search.liquid %}
+
+{% bibliography %}
+
 Zhang, X., **Zhao, M.**, Yao, Y., & Lu, Z. How Social Media Plays A Role in Stay-At-Home-Mom’s Transition: A Case Study in China. *To appear in CSCW 2025*
 
 **Zhao, M.**, & Jin, Y. (2024). Service-Learning with Intergenerational and Cross-Cultural Social Interactions: A Study of University Students in Hong Kong. *Journal of Experiential Education*, *0*(0). [https://doi.org/10.1177/10538259241304392](https://doi.org/10.1177/10538259241304392)
