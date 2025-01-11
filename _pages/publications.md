@@ -1,9 +1,9 @@
-<!-- ---
+---
 layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
---- -->
+---
 
 
 
@@ -13,9 +13,9 @@ author_profile: true
 {% endfor %} -->
 
 
-{% include bib_search.liquid %}
+<!-- {% include bib_search.liquid %}
 
-{% bibliography %}
+{% bibliography %} -->
 
 Zhang, X., **Zhao, M.**, Yao, Y., & Lu, Z. How Social Media Plays A Role in Stay-At-Home-Mom’s Transition: A Case Study in China. *To appear in CSCW 2025*
 
