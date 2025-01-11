@@ -7,12 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-Hi👋! I am Mindy, Minzhu Zhao, a first-year Ph.D. student from [Grouplens](https://grouplens.org/) Research Center at the [University of Minnesota](https://twin-cities.umn.edu/home). I am luckily advised by [Prof. Lana Yarosh](https://lanayarosh.com/). 
+Hi👋! This is Minzhu(Mindy), a 1st-year Computer Science Ph.D. student from [Grouplens](https://grouplens.org/) Research Center at the [University of Minnesota](https://twin-cities.umn.edu/home). I am luckily advised by [Prof. Lana Yarosh](https://lanayarosh.com/). 
 
-My research experience mainly focuses on social media and online communities, particularly on online harmful content (e.g. misinformation, misogyny). My research interest is on the intersection between society and technology, particularly the equitable, ethical and empathetic technology or digital platform for vulnerable groups.
-<!-- and [Prof. Stevie Chancellor](http://steviechancellor.com/).  -->
+Research Interest
+======
+With an interdisciplinary background in Information Science (MSc from [University College London](https://www.ucl.ac.uk/information-studies/research/knowledge-information-and-data-science-kids)), Data and Media Communication (BA from [Hong Kong Baptist University](https://bu-dmc.hkbu.edu.hk/)), my research interest includes Human-centered Interaction, Social Computing, and Health & Well-Being, particularly the ethical and empathetic technology for vulnerable groups. Currently, I am investigating technology for harm reduction. Additionally, I am interested in social media and online communities, particularly on online harmful content (e.g. misinformation, misogyny).
 
+<!-- % computational support for recovery from substance use disorders -->
 
+Please see my CV for more detailed experience.
 
 <!-- Research Interest
 ======
