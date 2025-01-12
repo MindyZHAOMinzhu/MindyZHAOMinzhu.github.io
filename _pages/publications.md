@@ -12,6 +12,9 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
+Zhang, X., **Zhao, M.**, Yao, Y., & Lu, Z. How Social Media Plays A Role in Stay-At-Home-Mom’s Transition: A Case Study in China. *To appear in CSCW 2025*
+
+**Zhao, M.**, & Jin, Y. (2024). Service-Learning with Intergenerational and Cross-Cultural Social Interactions: A Study of University Students in Hong Kong. *Journal of Experiential Education*, *0*(0). [https://doi.org/10.1177/10538259241304392](https://doi.org/10.1177/10538259241304392)
 
 Wang, H., **Zhao, M.**, Hu, W., Ma, Y., & Lu, Z. (2024). Critical Heritage Studies as a Lens to Understand Short Video Sharing of Intangible Cultural Heritage on Douyin. In *Proceedings of the CHI Conference on Human Factors in Computing Systems* (pp. 1-21). Association for Computing Machinery. [https://doi.org/10.1145/3613904.3642138](https://doi.org/10.1145/3613904.3642138)
 
