@@ -1,21 +1,20 @@
 ---
 permalink: /
-title: "Minzhu Zhao"
+title: "Mindy Minzhu Zhao"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hi👋! This is Minzhu(Mindy), a 1st-year Computer Science Ph.D. student from [Grouplens](https://grouplens.org/) lab at the [University of Minnesota](https://twin-cities.umn.edu/home). I am luckily advised by [Prof. Lana Yarosh](https://lanayarosh.com/). 
+Hi👋! I am Mindy, Minzhu Zhao.
 
-Research Interest
----
-With an interdisciplinary background in Information Science (MSc from [University College London](https://www.ucl.ac.uk/information-studies/research/knowledge-information-and-data-science-kids)), Data and Media Communication (BA from [Hong Kong Baptist University](https://bu-dmc.hkbu.edu.hk/)), my research interest includes Human-centered Interaction, Social Computing, and Health & Well-Being, particularly the ethical and empathetic technology for vulnerable groups. Currently, I am investigating technology for harm reduction. Additionally, I am interested in social media and online communities, particularly on online harmful content (e.g. misinformation, misogyny).
+<!-- a first-year Ph.D. student from [Grouplens](https://grouplens.org/) Research Center at the [University of Minnesota](https://twin-cities.umn.edu/home). 
 
-<!-- % computational support for recovery from substance use disorders -->
+I am luckily advised by [Prof. Lana Yarosh](https://lanayarosh.com/) and [Prof. Stevie Chancellor](http://steviechancellor.com/). My research focuses on social computing, and social media. -->
 
-Please see my CV for more detailed experience.
+
+
 
 <!-- Research Interest
 ======
@@ -34,15 +33,10 @@ xxxxxxxxx -->
 
 
 
-<!-- News -->
+News
 ---
 
 {% include news.md %}
-
-Publications
----
-
-{% include publications.md %}
 
 <!-- Getting started
 ======
