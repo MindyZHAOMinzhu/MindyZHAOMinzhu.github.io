@@ -14,7 +14,13 @@ This is Minzhu(Mindy), a 1st-year Computer Science Ph.D. student from [Grouplens
 I am luckily advised by [Prof. Lana Yarosh](https://lanayarosh.com/) and [Prof. Stevie Chancellor](http://steviechancellor.com/). My research focuses on social computing, and social media. -->
 
 
+Research Interest
+---
+With an interdisciplinary background in Information Science (MSc from [University College London](https://www.ucl.ac.uk/information-studies/research/knowledge-information-and-data-science-kids)), Data and Media Communication (BA from [Hong Kong Baptist University](https://bu-dmc.hkbu.edu.hk/)), my research interest includes Human-centered Interaction, Social Computing, and Health & Well-Being, particularly the ethical and empathetic technology for vulnerable groups. Currently, I am investigating technology for harm reduction. Additionally, I am interested in social media and online communities, particularly on online harmful content (e.g. misinformation, misogyny).
 
+<!-- % computational support for recovery from substance use disorders -->
+
+Please see my CV for more detailed experience.
 
 <!-- Research Interest
 ======
