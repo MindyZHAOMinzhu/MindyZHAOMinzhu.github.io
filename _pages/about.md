@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Mindy Minzhu Zhao"
+title: "Minzhu Zhao"
 author_profile: true
 redirect_from: 
   - /about/
@@ -16,13 +16,6 @@ With an interdisciplinary background in Information Science (MSc from [Universit
 <!-- % computational support for recovery from substance use disorders -->
 
 Please see my CV for more detailed experience.
-
-<!-- a first-year Ph.D. student from [Grouplens](https://grouplens.org/) Research Center at the [University of Minnesota](https://twin-cities.umn.edu/home). 
-
-I am luckily advised by [Prof. Lana Yarosh](https://lanayarosh.com/) and [Prof. Stevie Chancellor](http://steviechancellor.com/). My research focuses on social computing, and social media. -->
-
-
-
 
 <!-- Research Interest
 ======
@@ -41,10 +34,15 @@ xxxxxxxxx -->
 
 
 
-News
+<!-- News -->
 ---
 
 {% include news.md %}
+
+Publications
+---
+
+{% include publications.md %}
 
 <!-- Getting started
 ======

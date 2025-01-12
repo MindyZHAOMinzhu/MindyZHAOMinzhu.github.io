@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ---
-* Ph.D in Computer Science, University of Minnesota, 2024-2029(expected)
-* M.S. in Knowledge, Information, and Data Science, University College London, 2022-2023
-* B.S. in Journalism(Data and Media Communication concentration), Hong Kong Baptist University, 2018-2022
+* Ph.D in Computer Science, University of Minnesota, 2024 - present
+* M.S. in Knowledge, Information, and Data Science, University College London, 2022 - 2023
+* B.S. in Journalism(Data and Media Communication concentration), Hong Kong Baptist University, 2018 - 2022
   
 
 
