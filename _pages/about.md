@@ -12,7 +12,7 @@ This is Minzhu (Mindy) Zhao, a 1st-year Computer Science Ph.D. student from [Gro
 Research Interest
 ---
 <!-- With an interdisciplinary background in Information Science (MSc from [University College London](https://www.ucl.ac.uk/information-studies/research/knowledge-information-and-data-science-kids)), Data and Media Communication (BA from [Hong Kong Baptist University](https://bu-dmc.hkbu.edu.hk/)),  -->
-My research interest includes **Human-centered Interaction**, S**ocial Computing**, and **Health & Well-Being**, particularly the ethical and empathetic technology for vulnerable groups. Currently, I am investigating technology for harm reduction. Additionally, I am interested in social media and online communities, particularly on online harmful content (e.g. misinformation, misogyny).
+My research interest includes **Human-centered Interaction**, **Social Computing**, and **Health & Well-Being**, particularly the ethical and empathetic technology for vulnerable groups. Currently, I am investigating technology for harm reduction. Additionally, I am interested in social media and online communities, particularly on online harmful content (e.g. misinformation, misogyny).
 
 <!-- % computational support for recovery from substance use disorders -->
 
