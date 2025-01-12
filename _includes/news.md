@@ -4,9 +4,9 @@
 
 
 2024.09 — Joined [GroupLens](https://grouplens.org/) as a Ph.D. student, advised by Professor [Lana Yarosh](https://lanayarosh.github.io/)
+<!-- 
+2023.06 — Joined [DEER Lab](https://www.cs.cityu.edu.hk/~zhiconlu/people/) as Research Assistant, advised by Professor [Zhicong Lu](https://www.cs.cityu.edu.hk/~zhiconlu/) -->
 
-2023.06 — Joined [DEER Lab](https://www.cs.cityu.edu.hk/~zhiconlu/people/) as Research Assistant, advised by Professor [Zhicong Lu](https://www.cs.cityu.edu.hk/~zhiconlu/)
+<!-- 2023.09 — Received M.S. in Knowledge, Information, and Data Science from University College London, advised by Professor [Kaitlyn Regehr](https://profiles.ucl.ac.uk/88177-kaitlyn-regehr)
 
-2023.09 — Received M.S. in Knowledge, Information, and Data Science from University College London, advised by Professor [Kaitlyn Regehr](https://profiles.ucl.ac.uk/88177-kaitlyn-regehr)
-
-2022.06 — Received B.S. in Journalism (Data and Media Communication concentration) from Hong Kong Baptist University, advised by Professor [Yucheng Jin](https://yucheng.gold/)
+2022.06 — Received B.S. in Journalism (Data and Media Communication concentration) from Hong Kong Baptist University, advised by Professor [Yucheng Jin](https://yucheng.gold/) -->
