@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi👋! I am Mindy, Minzhu Zhao.
+This is Minzhu(Mindy), a 1st-year Computer Science Ph.D. student from [Grouplens](https://grouplens.org/) lab at the [University of Minnesota](https://twin-cities.umn.edu/home). I am luckily advised by [Prof. Lana Yarosh](https://lanayarosh.com/). 
 
 <!-- a first-year Ph.D. student from [Grouplens](https://grouplens.org/) Research Center at the [University of Minnesota](https://twin-cities.umn.edu/home). 
 
