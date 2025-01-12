@@ -12,6 +12,17 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
+<!-- _pages/publications.md -->
+
+<!-- Bibsearch Feature -->
+
+{% include bib_search.liquid %}
+
+<div class="publications">
+
+{% bibliography %}
+
+</div>
 
 Wang, H., **Zhao, M.**, Hu, W., Ma, Y., & Lu, Z. (2024). Critical Heritage Studies as a Lens to Understand Short Video Sharing of Intangible Cultural Heritage on Douyin. In *Proceedings of the CHI Conference on Human Factors in Computing Systems* (pp. 1-21). Association for Computing Machinery. [https://doi.org/10.1145/3613904.3642138](https://doi.org/10.1145/3613904.3642138)
 
