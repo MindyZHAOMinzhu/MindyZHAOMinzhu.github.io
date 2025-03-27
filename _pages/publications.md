@@ -12,18 +12,32 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-Zhang, X., **Zhao, M.**, Yao, Y., & Lu, Z. How Social Media Plays A Role in Stay-At-Home-Mom’s Transition: A Case Study in China. *To appear in CSCW 2025*
+Journal
+---
+How Social Media Plays A Role in Stay-At-Home-Mom’s Transition: A Case Study in China. (*To appear in CSCW 2025*)
+Xinyi Zhang, **Minzhu Zhao**, Yaxing Yao, Zhicong Lu 
 
-**Zhao, M.**, & Jin, Y. (2024). Service-Learning with Intergenerational and Cross-Cultural Social Interactions: A Study of University Students in Hong Kong. *Journal of Experiential Education*, *0*(0). [https://doi.org/10.1177/10538259241304392](https://doi.org/10.1177/10538259241304392)
+Service-Learning with Intergenerational and Cross-Cultural Social Interactions: A Study of University Students in Hong Kong. *Journal of Experiential Education*. [https://doi.org/10.1177/10538259241304392](https://doi.org/10.1177/10538259241304392)
+\
+**Minzhu Zhao***, & Yucheng Jin (2024). 
+\
+[PDF]()
 
-Wang, H., **Zhao, M.**, Hu, W., Ma, Y., & Lu, Z. (2024). Critical Heritage Studies as a Lens to Understand Short Video Sharing of Intangible Cultural Heritage on Douyin. In *Proceedings of the CHI Conference on Human Factors in Computing Systems* (pp. 1-21). Association for Computing Machinery. [https://doi.org/10.1145/3613904.3642138](https://doi.org/10.1145/3613904.3642138)
+Conference
+---
+[CHI'24] Critical Heritage Studies as a Lens to Understand Short Video Sharing of Intangible Cultural Heritage on Douyin. In *Proceedings of the CHI Conference on Human Factors in Computing Systems*, Honolulu, Hawaii, USA, May 11-16, 2024. [https://doi.org/10.1145/3613904.3642138](https://doi.org/10.1145/3613904.3642138)
+\
+Wang, H., **Zhao, M.**, Hu, W., Ma, Y., & Lu, Z. 
+\
+[PDF]()
 
-Lin, Z. H., Wang, Z., **Zhao, M.**, Song, Y., & Lan, L. (2022). An AI-based System to Assist Human Fact-Checkers for Labeling Cantonese Fake News on Social Media. In *2022 IEEE International Conference on Big Data (Big Data)* (pp. 6766-6768). IEEE. h[https://doi.org/10.1109/BigData55660.2022.10020949](https://doi.org/10.1109/BigData55660.2022.10020949)
+Posters & Workshop Papers
+---
 
-Li, G., Wang, Z., **Zhao, M.**, Song, Y., & Lan, L. (2022). Sentiment Analysis of Political Posts on Hong Kong Local Forums Using Fine-Tuned mBERT. In *2022 IEEE International Conference on Big Data (Big Data)* (pp. 6763-6765). IEEE. [https://doi.org/10.1109/BigData55660.2022.10020704](https://doi.org/10.1109/BigData55660.2022.10020704)
 
-Wang, Z., **Zhao, M.**, Chen, Y., Song, Y., & Lan, L. (2021). A study of cantonese covid-19 fake news detection on social media. In *2021 IEEE International Conference on Big Data (Big Data)* (pp. 6052-6054). IEEE.
-
+A study of cantonese covid-19 fake news detection on social media. In *2021 IEEE International Conference on Big Data (Big Data)* (pp. 6052-6054). IEEE.
+Wang, Z., **Zhao, M.**, Chen, Y., Song, Y., & Lan, L. (2021). 
+[Short Paper]
 
 {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my google scholar profile</a>.</div>
