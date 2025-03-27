@@ -15,13 +15,14 @@ author_profile: true
 Journal
 ---
 How Social Media Plays A Role in Stay-At-Home-Mom’s Transition: A Case Study in China. (*To appear in CSCW 2025*)
+\
 Xinyi Zhang, **Minzhu Zhao**, Yaxing Yao, Zhicong Lu 
 
 Service-Learning with Intergenerational and Cross-Cultural Social Interactions: A Study of University Students in Hong Kong. *Journal of Experiential Education*. [https://doi.org/10.1177/10538259241304392](https://doi.org/10.1177/10538259241304392)
 \
 **Minzhu Zhao***, & Yucheng Jin (2024). 
 \
-[PDF]()
+<!-- [PDF]() -->
 
 Conference
 ---
@@ -29,7 +30,7 @@ Conference
 \
 Wang, H., **Zhao, M.**, Hu, W., Ma, Y., & Lu, Z. 
 \
-[PDF]()
+<!-- [PDF]() -->
 
 Posters & Workshop Papers
 ---
