@@ -7,14 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-This is Minzhu (Mindy) Zhao, a first-year Computer Science Ph.D. student from [Grouplens](https://grouplens.org/) lab at the [University of Minnesota](https://twin-cities.umn.edu/home). I am luckily advised by [Prof. Lana Yarosh](https://lanayarosh.com/). 
+This is Minzhu (Mindy) Zhao, a first-year Ph.D. student from [Grouplens](https://grouplens.org/) lab at the [University of Minnesota](https://twin-cities.umn.edu/home). I am luckily advised by [Prof. Lana Yarosh](https://lanayarosh.com/). 
 
-Prior to that, I studied MSc in Knowledge, Information and Data Science at the University College London, mentored by Professor [Kaitlyn Regehr](https://profiles.ucl.ac.uk/88177-kaitlyn-regehr). I also undertook research on the intersection of social media and HCI guided by Professor [Zhicong Lu](https://www.cs.toronto.edu/~luzhc/) from DEER Lab and Professor [Yaxing Yao](https://yaxingyao.cs.vt.edu/). Previously, I received my BA in Data and Media Communication from Hong Kong Baptist University (HKBU) in 2022. During my undergraduate study, I undertook research advised by Professor [Yucheng Jin](https://yucheng.gold/), Professor [Liang Lan](https://imd.hkbu.edu.hk/faculty-member/Dr-LAN-Liang.html), and Professor [Yunya Song](https://imd.hkbu.edu.hk/faculty-member/Prof-Celine-Yunya-SONG.html).
+Prior to that, I studied MSc in Information Science at the University College London, mentored by Professor [Kaitlyn Regehr](https://profiles.ucl.ac.uk/88177-kaitlyn-regehr). I also undertook research on the intersection of social media and HCI guided by Professor [Zhicong Lu](https://www.cs.toronto.edu/~luzhc/) from DEER Lab and Professor [Yaxing Yao](https://yaxingyao.cs.vt.edu/). Previously, I received my BA in Journalism from Hong Kong Baptist University (HKBU) in 2022. During my undergraduate study, I undertook research advised by Professor [Yucheng Jin](https://yucheng.gold/), Professor [Liang Lan](https://imd.hkbu.edu.hk/faculty-member/Dr-LAN-Liang.html), and Professor [Yunya Song](https://imd.hkbu.edu.hk/faculty-member/Prof-Celine-Yunya-SONG.html).
 
 🌟 Research Interests
 ---
 <!-- With an interdisciplinary background in Information Science (MSc from [University College London](https://www.ucl.ac.uk/information-studies/research/knowledge-information-and-data-science-kids)), Data and Media Communication (BA from [Hong Kong Baptist University](https://bu-dmc.hkbu.edu.hk/)),  -->
-My research interest lie at the intersection of  **Human-centered Interaction**, **Social Computing**, and **Health & Well-Being**, particularly the ethical and empathetic technology for vulnerable groups. Currently, I am investigating technology for harm reduction. Additionally, I am interested in social media and online communities, particularly on online harmful content (e.g. misinformation, misogyny).
+My research interest lie at the intersection of  **Human-centered Interaction**, **Social Computing**, and **Health & Well-Being**. Currently, I am investigating technology for harm reduction. Additionally, I am interested in social media and online communities, particularly on online harmful content.
 
 <!-- % computational support for recovery from substance use disorders -->
 
