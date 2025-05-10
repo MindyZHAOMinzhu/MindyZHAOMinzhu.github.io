@@ -7,7 +7,6 @@ author_profile: true
 
 
 
-<!-- # 最后还是手动了，自动搞不定，大不了用 GPT 手动 -->
 <!-- {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %} -->

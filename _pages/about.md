@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-This is Minzhu (Mindy) Zhao, a first-year Ph.D. student from [Grouplens](https://grouplens.org/) lab at the [University of Minnesota](https://twin-cities.umn.edu/home). I am luckily advised by [Prof. Lana Yarosh](https://lanayarosh.com/). 
+This is Minzhu (Mindy) Zhao, a first-year computer science Ph.D. student from [Grouplens](https://grouplens.org/) lab at the [University of Minnesota](https://twin-cities.umn.edu/home). I am luckily advised by [Prof. Lana Yarosh](https://lanayarosh.com/). 
 
-Prior to that, I studied MSc in Information Science at the University College London, mentored by Professor [Kaitlyn Regehr](https://profiles.ucl.ac.uk/88177-kaitlyn-regehr). I also undertook research on the intersection of social media and HCI guided by Professor [Zhicong Lu](https://www.cs.toronto.edu/~luzhc/) from DEER Lab and Professor [Yaxing Yao](https://yaxingyao.cs.vt.edu/). Previously, I received my BA in Journalism from Hong Kong Baptist University (HKBU) in 2022. During my undergraduate study, I undertook research advised by Professor [Yucheng Jin](https://yucheng.gold/), Professor [Liang Lan](https://imd.hkbu.edu.hk/faculty-member/Dr-LAN-Liang.html), and Professor [Yunya Song](https://imd.hkbu.edu.hk/faculty-member/Prof-Celine-Yunya-SONG.html).
+Prior to that, I studied MSc in Information Science at the University College London, mentored by Professor [Kaitlyn Regehr](https://profiles.ucl.ac.uk/88177-kaitlyn-regehr). I also undertook research on the intersection of social media and HCI guided by Professor [Zhicong Lu](https://www.cs.toronto.edu/~luzhc/) and Professor [Yaxing Yao](https://yaxingyao.cs.vt.edu/). Previously, I received my BA in Journalism from Hong Kong Baptist University (HKBU) in 2022. During my undergraduate study, I undertook research advised by Professor [Yucheng Jin](https://yucheng.gold/), Professor [Liang Lan](https://imd.hkbu.edu.hk/faculty-member/Dr-LAN-Liang.html), and Professor [Yunya Song](https://imd.hkbu.edu.hk/faculty-member/Prof-Celine-Yunya-SONG.html).
 
 🌟 Research Interests
 ---
@@ -25,11 +25,6 @@ Please see my CV for more detailed experience.
 I am luckily advised by [Prof. Lana Yarosh](https://lanayarosh.com/) and [Prof. Stevie Chancellor](http://steviechancellor.com/). My research focuses on social computing, and social media. -->
 
 
-
-
-<!-- Research Interest
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge. -->
 
 
 <!-- Social Computing
