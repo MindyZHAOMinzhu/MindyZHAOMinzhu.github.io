@@ -39,10 +39,10 @@ xxxxxxxxx -->
 
 
 
-<!-- News
+News
 ---
 
-{% include news.md %} -->
+{% include news.md %}
 
 <!-- Getting started
 ======
